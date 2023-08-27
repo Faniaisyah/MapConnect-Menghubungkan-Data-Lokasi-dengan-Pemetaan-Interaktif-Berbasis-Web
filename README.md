@@ -34,6 +34,5 @@ NIM : 22/493988/SV/20769
 
 kelas : A
 
-ksjdhaiuhiuhijgdhgu
 
 
