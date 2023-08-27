@@ -1,7 +1,7 @@
 # MapConnect
 Proyek "MapConnect" merupakan sebuah platform Sistem Informasi Geografis (GIS) yang bertujuan untuk menghubungkan data lokasi dengan pengguna melalui antarmuka web interaktif.
 
-![Avatar](image/MapGIS.png)
+![alt text](?raw=true)
 
 ##Teknologi 
 - Leaflet.je: Pustaka JavaScript untuk membangun peta interaktif.
